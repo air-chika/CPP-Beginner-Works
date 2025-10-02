@@ -1,0 +1,54 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "夜雀食堂 Beta2/1.0.0": {
+        "dependencies": {
+          "SMPConsole": "1.0.0"
+        },
+        "runtime": {
+          "夜雀食堂 Beta2.dll": {}
+        }
+      },
+      "Google.Protobuf/3.21.8": {
+        "runtime": {
+          "lib/net5.0/Google.Protobuf.dll": {
+            "assemblyVersion": "3.21.8.0",
+            "fileVersion": "3.21.8.0"
+          }
+        }
+      },
+      "SMPConsole/1.0.0": {
+        "dependencies": {
+          "Google.Protobuf": "3.21.8"
+        },
+        "runtime": {
+          "SMPConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "夜雀食堂 Beta2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf/3.21.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k6984wrXAAq92cRZ0rCPcUDE0dTZXFC4vO4z7+CG/0bp8DewYs+zX69tcgzm30EEtDuO8Ggpn2Qmb1kQa4WTcg==",
+      "path": "google.protobuf/3.21.8",
+      "hashPath": "google.protobuf.3.21.8.nupkg.sha512"
+    },
+    "SMPConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

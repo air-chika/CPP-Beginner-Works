@@ -1,0 +1,1 @@
+start /wait vpncmd localhost /client /cmd AccountDisconnect test
